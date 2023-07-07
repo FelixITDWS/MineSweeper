@@ -1,13 +1,19 @@
-MineSweeper
+Readme
 ===
-- 111-2 CSIE of NTUST OOP Lab Project 1
+
+### Project Information
+- Course: 111-2 Lab of OOP
+- Department: CSIE of NTUST
+- Project 1 - MineSweeper
+- Environment: Visual Studio 2019
+- Author: Felix
 
 ### Mode
 - `MineSweeper.exe GUI`: Run the game with GUI
 - `MineSweeper.exe CommandInput`: Run the game with console window and control by typing command
 - `MineSweeper.exe CommandFile <InputFile> <OutputFile>`: Control by the command from `<InputFile>`, and write the result to `<OutputFile>`
 
-### Information
+### Game Information
 - Player will win when all the blank is opened except bomb
 - Player will lose when any of the bomb is opened
 - Every command is able to be use in the operation domain
