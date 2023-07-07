@@ -1,0 +1,148 @@
+<StartGame>: Failed
+<Load BoardFile Board2.txt>: Success
+<StartGame>: Success
+############
+############
+############
+############
+############
+############
+############
+############
+############
+############
+############
+############
+<Print GameAnswer>: 
+011100192100
+019100129100
+011100012210
+110000112910
+921111192110
+492191122100
+992111129321
+221000295991
+000001394931
+000001922221
+000002220292
+000001910292
+<Print GameBoard>: 
+############
+############
+############
+############
+############
+############
+############
+############
+############
+############
+############
+############
+<LeftClick 0 11>: Success
+<LeftClick 11 0>: Success
+<LeftClick 0 0>: Success
+<LeftClick 11 11>: Success
+<LeftClick 0 5>: Success
+<RightClick 4 0>: Success
+<Print GameBoard>: 
+01#1001##100
+01#10012#100
+01110001#210
+11000011##10
+!211111##110
+#########100
+##21111##321
+2210002#####
+0000013#####
+000001######
+000002######
+000001#####2
+<LeftClick 10 8>: Success
+<LeftClick 10 6>: Success
+<RightClick 11 6>: Success
+<RightClick 9 6>: Success
+<Print GameBoard>: 
+01#1001##100
+01#10012#100
+01110001#210
+11000011##10
+!211111##110
+#########100
+##21111##321
+2210002#####
+0000013#####
+000001!222##
+0000022202##
+000001!102#2
+<RightClick 0 2>: Success
+<RightClick 1 2>: Success
+<RightClick 0 2>: Success
+<LeftClick 0 2>: Success
+<LeftClick 9 3>: Failed
+<LeftClick 1 10>: Failed
+<LeftClick 2 3>: Failed
+<LeftClick 1 2>: Failed
+<LeftClick 4 0>: Failed
+<RightClick 11 0>: Failed
+<RightClick 11 4>: Failed
+<RightClick 9 4>: Failed
+<LeftClick 0 7>: Success
+You lose the game.
+<Replay>: Success
+<StartGame>: Failed
+<Load BoardFile Board3.txt>: Success
+<StartGame>: Success
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+<Print GameAnswer>: 
+1100001910
+9100001110
+1100000000
+0000000000
+0000001110
+0000001910
+0000001110
+0000111000
+0001291011
+0001921019
+<Print GameBoard>: 
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+<LeftClick 6 1>: Success
+<Print GameBoard>: 
+#100001#10
+#100001110
+1100000000
+0000000000
+0000001110
+0000001#10
+0000001110
+0000111000
+00012#1011
+0001##101#
+<RightClick 5 7>: Success
+<RightClick 0 7>: Success
+<RightClick 9 9>: Success
+<RightClick 1 0>: Success
+<LeftClick 1 0>: Failed
+<LeftClick 0 0>: Success
+<LeftClick 9 5>: Success
+You win the game.
+<Quit>: Success
